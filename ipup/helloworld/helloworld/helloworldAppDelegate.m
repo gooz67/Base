@@ -17,7 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    testfield.text=@"HelloWorld";
+    testfield.text=@"Hello test world";
     // Override point for customization after application launch.
     [self.window makeKeyAndVisible];
     return YES;
